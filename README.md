@@ -1,10 +1,9 @@
-Solutions to Codingame Puzzles
+Personal solutions to codinGame Puzzles
 
 # CodinGame
 
 ## Practice 
 
-<details><summary>Temperatures</summary></details>
-
-<details><summary>The Descent</summary></details>
+- [x] [The descent](practice/the-descent.js)
+- [ ] - [x] [Temperature](practice/temperature.js) 
       
