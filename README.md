@@ -4,7 +4,7 @@ Solutions to Codingame Puzzles
 
 ## Practice 
 
-<details>Temperatures</details>
+<details><summary>Temperatures</summary></details>
 
-<details>The Descent</details>
+<details><summary>The Descent</summary></details>
       
