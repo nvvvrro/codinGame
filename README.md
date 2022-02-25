@@ -5,5 +5,5 @@ Personal solutions to codinGame Puzzles
 ## Practice 
 
 - [x] [The descent](practice/the-descent.js)
-- [ ] - [x] [Temperature](practice/temperature.js) 
+- [x] [Temperature](practice/temperature.js) 
       
